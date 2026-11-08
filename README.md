@@ -154,7 +154,3 @@ Check `fortnite_loop.log` to see where the script was when it stalled.
 - Test for several full loops while you are present before leaving it unattended.
 - Unexpected popups (updates, disconnects, error dialogs) will stall the loop unless you add templates for them.
 - Leaving matches early or being AFK can cause queue penalties and may affect ranked or competitive modes.
-
-## License
-
-Add a license of your choice (for example MIT) before publishing.
